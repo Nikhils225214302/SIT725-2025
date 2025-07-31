@@ -7,15 +7,15 @@ $(document).ready(function () {
 
 const cardList = [
   {
-    title: "Kitten 2",
+    title: "Kitten-2",
     image: "images/cat-2.png",
-    link: "About Kitten 2",
+    link: "About Kitten-2",
     desciption: "Demo desciption about kitten 2",
   },
   {
-    title: "Kitten 3",
+    title: "Kitten-3",
     image: "images/cat-3.png",
-    link: "About Kitten 3",
+    link: "About Kitten-3",
     desciption: "Demo desciption about kitten 3",
   },
 ];
